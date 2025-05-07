@@ -19,4 +19,4 @@ This project uses historical e-commerce sales data to build a predictive model f
 To help e-commerce businesses make data-driven decisions by predicting future product demand.
 
 ## Author
-Kartik K. N
+Kartik K.N
