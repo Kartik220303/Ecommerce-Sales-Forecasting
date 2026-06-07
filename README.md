@@ -91,4 +91,4 @@ E-commerce businesses often struggle with:
 ---
 
 **Author:**  
-Kartik K. N
+Kartik K N
